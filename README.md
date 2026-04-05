@@ -79,4 +79,4 @@ with pure telekinesis (minus the superhero costume).
 - 💼  Certified in Google AI Essentials, AWS Generative AI, Data Analytics
 - 🏆 Competitive Programmer
 -  Pronouns: He/Him
--   
+  
